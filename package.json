@@ -1,0 +1,24 @@
+{
+  "name": "mywork",
+  "version": "1.0.0",
+  "description": "hello welome to my github",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mynzk/zhangkui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mynzk/zhangkui/issues"
+  },
+  "homepage": "https://github.com/mynzk/zhangkui#readme",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-react": "^6.10.0"
+  }
+}
