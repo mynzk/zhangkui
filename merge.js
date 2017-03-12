@@ -7,5 +7,5 @@ function merge () {
   return ret;
 }
 console.log(merge({a: 123}, {b: 456}));
-
+console.log('hello');
 
